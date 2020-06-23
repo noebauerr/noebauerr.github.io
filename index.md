@@ -11,4 +11,4 @@ ach ja, falls das jemand sehen kann: das ist nur eine übung für einen hpi kurs
 * punkt 3
 * punkt 4
 
-<img src="http://www.noebauer.net/index.php?/albums/people/content/tamara/">
+<img src="http://www.noebauer.net/index.php?/albums/people/content/tamara/"/>
