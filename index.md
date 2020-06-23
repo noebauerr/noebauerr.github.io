@@ -1,3 +1,5 @@
 # mit der Raute einen H1 Titel hinzugefügt
 
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+jetzt schreibe ich einen Text mit 30 bis 50 wörter der keinen sinn ergibt, aber trotzdem schreibe ich irgendwas. somit kann ich
+den zweiten issue lösen. zumindest ist das meine momentaner wissensstand
+ach ja, falls das jemand sehen kann: das ist nur eine übung für einen hpi kurs zu git
